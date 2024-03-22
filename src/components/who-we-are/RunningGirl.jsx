@@ -1,4 +1,4 @@
-import runningGirl from "../../images/who-we-are/Gym_girl.png";
+import runningGirl from "./Gym_Girl.png";
 
 function RunningGirl() {
   return (
