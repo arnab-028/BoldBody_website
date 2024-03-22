@@ -15,7 +15,7 @@ function Hero() {
 
             <PrimaryHeading />
 
-            <PrimaryButton to="/classes">Our classes</PrimaryButton>
+            {/* <PrimaryButton to="/classes">Our classes</PrimaryButton> */}
           </div>
 
           {/* <Share /> */}
