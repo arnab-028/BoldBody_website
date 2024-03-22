@@ -1,6 +1,6 @@
 import Title from "./Title";
 import SocialLinks from "./SocialLinks";
-import Copyright from "./Copyright";
+// import Copyright from "./Copyright";
 import Classes from "./Classes";
 import Hours from "./Hours";
 
@@ -13,7 +13,7 @@ function Footer() {
 
           <SocialLinks />
 
-          <Copyright />
+        
         </div>
 
         <Classes />
