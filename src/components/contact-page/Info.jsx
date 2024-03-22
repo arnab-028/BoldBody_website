@@ -9,10 +9,7 @@ function Info() {
         We are here for help you To Shape Your Body
       </h3>
       <p className="font-medium text-gray-300">
-        when an unknown printer took a galley of type and scrambled it to make a
-        type specimen book. It has survived not only five centuries, but also
-        the leap into electronic types etting.type specimen It has survived not
-        only five centuries, but also the type specimen book.
+        At BoldBody Gym, we believe in transforming bodies and lives through fitness, empowerment, and community. Located in the heart of Park Street, Kolkata, we are dedicated to providing unparalleled fitness experiences tailored to meet the needs of every individua
       </p>
       <div className="grid 2xl:grid-cols-2 2xl:gap-y-8">
         <div>
