@@ -1,4 +1,4 @@
-import runningGirl from "../../images/who-we-are/Gym_girl.avif";
+import runningGirl from "../../images/who-we-are/Gym_Girl.avif";
 
 function RunningGirl() {
   return (
